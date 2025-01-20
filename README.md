@@ -1,2 +1,3 @@
-# java-tutorial
-Java tutorial for beginners to programming
+# Beginners Java Tutorial 
+
+Java tutorial for beginners to programming.
